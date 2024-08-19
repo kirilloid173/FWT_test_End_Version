@@ -1,0 +1,14 @@
+#navbarPage {
+  display: inline-flex;
+  flex-direction: row;
+  width: 90%;
+  margin: 10%;
+  align-items: center;
+  justify-content: center;
+}
+#navbarPage img[id=icon_theme_navbar] {
+  float: right;
+  margin-left: 200px;
+}
+
+/*# sourceMappingURL=Navbar.module.css.map */

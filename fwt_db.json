@@ -1,0 +1,50 @@
+[
+  {
+    "authorId": 1,
+    "created": "1761",
+    "id": 1,
+    "imgUrl": "/src/images/first.png",
+    "locationId": 1,
+    "name": "cascate di tivoli"
+  },
+  {
+    "authorId": 2,
+    "created": "1886",
+    "id": 2,
+    "imgUrl": "/src/images/seconds.png",
+    "locationId": 2,
+    "name": "Portrait of Vincent van Gogh"
+  },
+  {
+    "authorId": 3,
+    "created": "1862",
+    "id": 3,
+    "imgUrl": "/src/images/three.png",
+    "locationId": 3,
+    "name": "Unequal marriage"
+  },
+  {
+    "authorId": 4,
+    "created": "1624",
+    "id": 4,
+    "imgUrl": "/src/images/four.png",
+    "locationId": 4,
+    "name": "The happy Violinist"
+  },
+  {
+    "authorId": 5,
+    "created": "1834",
+    "id": 5,
+    "imgUrl": "/src/images/five.png",
+    "locationId": 5,
+    "name": "The Arcadian"
+  },
+  {
+    "authorId": 6,
+    "created": "1845",
+    "id": 6,
+    "imgUrl": "/src/images/six.png",
+    "locationId": 6,
+    "name": "Golfo di Napoli"
+  }
+]
